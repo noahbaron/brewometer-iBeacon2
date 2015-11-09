@@ -12,7 +12,6 @@
 
 <gap:plugin name="com.evothings.ble" version="1.0.0" />
 <gap:plugin name="com.unarin.cordova.beacon" version="3.2.1" />
-<gap:plugin name="de.appplant.cordova.plugin.local-notification" version="0.8.1" />
 
 
 <access origin="*" /> <allow-intent href="http://*/*" />
